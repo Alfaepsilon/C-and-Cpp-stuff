@@ -1,2 +1,2 @@
 # C-stuff
-C stuff for refreshing memory.
+C and C++ stuff for refreshing memory.
